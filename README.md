@@ -2,7 +2,10 @@
 
 It is a repository that shares dataset partitioning to create reproducible results from multiple datasets.
 
-
+*MTAT_split
+*GTZAN_split
+*MSD_split
+*TAGTRAUM_split
 
 # References
 [Multi-Level and Multi-Scale Feature Aggregation Using Sample-level Deep Convolutional Neural Networks, ICML machine learning for music discovery, 2017(not uploaded yet)] <br>
